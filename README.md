@@ -1,2 +1,1 @@
-# website
-public website for PVA-Parrot
+visit website at http://pva-parrot.github.io
